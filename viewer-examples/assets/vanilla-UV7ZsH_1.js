@@ -1,1 +1,0 @@
-import{n as e}from"./element-CM34-hdz.js";import"./index-Cxg5PdIu.js";import{n as t,t as n}from"./types-WKkWu9NG.js";var r=(r,i)=>{let a=e(r,t(i));return n(()=>a,()=>a.destroy())};export{r as mount};
