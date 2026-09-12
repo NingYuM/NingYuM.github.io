@@ -1,0 +1,1 @@
+import{t as e}from"./viewer-CkfvZ1nW.js";import{n as t,t as n}from"./types-BmyebzaA.js";var r=(r,i)=>{let a=e(r,t(i));return n(()=>a,()=>a.destroy())};export{r as mount};
